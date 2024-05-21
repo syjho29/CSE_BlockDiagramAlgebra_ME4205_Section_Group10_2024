@@ -8,7 +8,8 @@ Block Diagram
 
 Step Response
 ![image](https://github.com/syjho29/CSE_BlockDiagramAlgebra_ME4205_Section_Group10_2024/assets/159265191/2f9acea4-f721-4bdf-8522-b973fa55670c)
-![image](https://github.com/syjho29/CSE_BlockDiagramAlgebra_ME4205_Section_Group10_2024/assets/159265191/ff2de8fc-1647-403b-bfca-ad14a1ebfeae)
+![image](https://github.com/syjho29/CSE_BlockDiagramAlgebra_ME4205_Section_Group10_2024/assets/159265191/60f6bcf7-ec0a-4094-b9f5-24f8d686734d)
+![image](https://github.com/syjho29/CSE_BlockDiagramAlgebra_ME4205_Section_Group10_2024/assets/159265191/3c7de194-54f8-4e6e-a72f-b102df8a2c52)
 
 
 2.) 
