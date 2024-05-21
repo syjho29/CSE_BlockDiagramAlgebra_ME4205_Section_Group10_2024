@@ -2,18 +2,12 @@
 
 1.) 
 Manual Computation
-![1](https://github.com/syjho29/CSE_BlockDiagramAlgebra_ME4205_Section_Group10_2024/assets/159103857/74003199-134d-4d48-977e-524fb4b3998b)
-![2](https://github.com/syjho29/CSE_BlockDiagramAlgebra_ME4205_Section_Group10_2024/assets/159103857/fe72e686-dbd6-41ad-8995-e3ddeeacc754)
-![3](https://github.com/syjho29/CSE_BlockDiagramAlgebra_ME4205_Section_Group10_2024/assets/159103857/3e2abc31-ab35-4ee7-a441-4bd31f46f11a)
-![4](https://github.com/syjho29/CSE_BlockDiagramAlgebra_ME4205_Section_Group10_2024/assets/159103857/f4239be2-8191-4230-b0b8-9c9ae7e953cc)
-![5](https://github.com/syjho29/CSE_BlockDiagramAlgebra_ME4205_Section_Group10_2024/assets/159103857/947b02ae-0079-44d0-9d79-1b0341c44270)
-![6](https://github.com/syjho29/CSE_BlockDiagramAlgebra_ME4205_Section_Group10_2024/assets/159103857/20be3c5d-ec6a-44b0-acfe-b632d8330c43)
-![7](https://github.com/syjho29/CSE_BlockDiagramAlgebra_ME4205_Section_Group10_2024/assets/159103857/11293b39-b944-4fa6-b6ea-13a6c0dbd4e2)
-![8](https://github.com/syjho29/CSE_BlockDiagramAlgebra_ME4205_Section_Group10_2024/assets/159103857/582a3001-28b8-4539-9066-12fddb37d27b)
-![9](https://github.com/syjho29/CSE_BlockDiagramAlgebra_ME4205_Section_Group10_2024/assets/159103857/ddfaed7b-94cc-4756-97e1-9e68dc67bd73)
-![10](https://github.com/syjho29/CSE_BlockDiagramAlgebra_ME4205_Section_Group10_2024/assets/159103857/8cb70bef-9887-402e-b239-3bac8ac7a356)
-![11](https://github.com/syjho29/CSE_BlockDiagramAlgebra_ME4205_Section_Group10_2024/assets/159103857/d38e7a37-2bfc-418e-98ce-8d4023320c7e)
-![12](https://github.com/syjho29/CSE_BlockDiagramAlgebra_ME4205_Section_Group10_2024/assets/159103857/d422dbc0-4809-4876-b064-6f4f6fe6acaf)
+![1](https://github.com/syjho29/CSE_BlockDiagramAlgebra_ME4205_Section_Group10_2024/assets/159103857/3c0844db-34c4-4287-bd7f-3ca49bd1c954)
+![2](https://github.com/syjho29/CSE_BlockDiagramAlgebra_ME4205_Section_Group10_2024/assets/159103857/6f0fac2f-0425-4d39-a6b1-3f8e68cf5aca)
+![3](https://github.com/syjho29/CSE_BlockDiagramAlgebra_ME4205_Section_Group10_2024/assets/159103857/43941bc0-beb1-4762-9919-45906da57430)
+![4](https://github.com/syjho29/CSE_BlockDiagramAlgebra_ME4205_Section_Group10_2024/assets/159103857/3a4510d3-ae3a-415d-81c1-fdb5bbb3a199)
+![5](https://github.com/syjho29/CSE_BlockDiagramAlgebra_ME4205_Section_Group10_2024/assets/159103857/090d3c7b-6c2a-4097-9ab8-6a14c82c6ece)
+
 
 Block Diagram
 ![image](https://github.com/syjho29/CSE_BlockDiagramAlgebra_ME4205_Section_Group10_2024/assets/159265191/b12b8ab0-a477-44fe-98d5-471b608652ff)
