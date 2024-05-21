@@ -1,5 +1,17 @@
 # CSE_BlockDiagramAlgebra_ME4205_Section_Group10_2024
 
+1.) 
+Manual Computation
+
+Block Diagram
+![image](https://github.com/syjho29/CSE_BlockDiagramAlgebra_ME4205_Section_Group10_2024/assets/159265191/b12b8ab0-a477-44fe-98d5-471b608652ff)
+
+Step Response
+![image](https://github.com/syjho29/CSE_BlockDiagramAlgebra_ME4205_Section_Group10_2024/assets/159265191/2f9acea4-f721-4bdf-8522-b973fa55670c)
+![image](https://github.com/syjho29/CSE_BlockDiagramAlgebra_ME4205_Section_Group10_2024/assets/159265191/ff2de8fc-1647-403b-bfca-ad14a1ebfeae)
+![image](https://github.com/syjho29/CSE_BlockDiagramAlgebra_ME4205_Section_Group10_2024/assets/159265191/be718d65-7d1b-41fa-9117-b5438e102bbf)
+
+
 2.) 
 Manual Computation
 
